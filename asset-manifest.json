@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/wa-concert-venue/static/css/main.3816f3f7.css",
+    "main.js": "/wa-concert-venue/static/js/main.0517d9d3.js",
+    "static/media/crowd-live-music.jpg": "/wa-concert-venue/static/media/crowd-live-music.777a8dda62ba265eaec7.jpg",
+    "static/media/The_WA-removebg-preview2.png": "/wa-concert-venue/static/media/The_WA-removebg-preview2.ef11e52bb8d1a5b6d982.png",
+    "static/media/party.jpg": "/wa-concert-venue/static/media/party.a656f2ec52fc296aa2fd.jpg",
+    "static/media/stagec.jpg": "/wa-concert-venue/static/media/stagec.c6f086535e49ff40baa4.jpg",
+    "static/media/micor.jpg": "/wa-concert-venue/static/media/micor.808f7f6c7eade35ab3cc.jpg",
+    "index.html": "/wa-concert-venue/index.html",
+    "main.3816f3f7.css.map": "/wa-concert-venue/static/css/main.3816f3f7.css.map",
+    "main.0517d9d3.js.map": "/wa-concert-venue/static/js/main.0517d9d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3816f3f7.css",
+    "static/js/main.0517d9d3.js"
+  ]
+}
